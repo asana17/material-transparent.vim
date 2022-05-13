@@ -1,8 +1,8 @@
 " Vim Color File
 " Name: material.vim
-" Maintainer: https://github.com/kaicataldo/material.vim
+" Original Maintainer: https://github.com/kaicataldo/material.vim
 " License: The MIT License (MIT)
-
+" Maintainer: https://github.com/kaightasa/material-transparent.vim/material.vim
 " === Configuration ===
 
 " Clear any other set colors
